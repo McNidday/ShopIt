@@ -3,9 +3,9 @@
 **Getting started**
  
 
-> 1. cone this repository or download it
->  2. open it with your favorite code editor
->  3. run npm start And it's that easy!
+> 1. Clone this repository or download it
+>  2. Open it with your favorite code editor
+>  3. Run npm start And it's that easy!
 
 **Loop holes**
 
